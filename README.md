@@ -31,17 +31,17 @@ This repository contains my implementations of algorithms from scratch, mathemat
 ### 🌳 Ensemble Methods
 | Algorithm | Notebook | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **Random Forests** | | Bagging, Feature Importance | 🚧 In Progress |
-| **AdaBoost** |  | Weak Classifiers, Boosting | 📅 Planned |
-| **Gradient Boosting** | | Residuals, GBM vs XGBoost | 📅 Planned |
+| **Random Forests** | - | Bagging, Feature Importance | 🚧 In Progress |
+| **AdaBoost** | - | Weak Classifiers, Boosting | 📅 Planned |
+| **Gradient Boosting** | - | Residuals, GBM vs XGBoost | 📅 Planned |
 
 ### 🧩 Unsupervised Learning
 | Algorithm | Notebook | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **K-Means Clustering** | [Link](./ml/kmeans.ipynb) | Centroids, Elbow Method | 📅 Planned |
-| **Hierarchical Clustering** | [Link](./ml/hierarchical.ipynb) | Dendrograms, Agglomerative | 📅 Planned |
-| **DBSCAN** | [Link](./ml/dbscan.ipynb) | Density-based, Outlier Detection | 📅 Planned |
-| **PCA** | [Link](./ml/pca.ipynb) | Dimensionality Reduction, Eigenvectors | 📅 Planned |
+| **K-Means Clustering** | - | Centroids, Elbow Method | 📅 Planned |
+| **Hierarchical Clustering** | - | Dendrograms, Agglomerative | 📅 Planned |
+| **DBSCAN** | - | Density-based, Outlier Detection | 📅 Planned |
+| **PCA** | - | Dimensionality Reduction, Eigenvectors | 📅 Planned |
 
 ---
 
@@ -56,7 +56,19 @@ This repository contains my implementations of algorithms from scratch, mathemat
 
 ---
 
-## ⚡ 3. Advanced: LLMs & MLOps
+## 🚀 3. Projects Portfolio
+*End-to-end projects showcasing applied skills.*
+
+| Category | Project Name | Tech Stack | Description | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| **Machine Learning** | - | - | End-to-end regression pipeline with EDA and Feature Eng. | 📅 Planned |
+| **Deep Learning** | **Image Classifier** | PyTorch/TensorFlow | CNN to classify custom dataset with Data Augmentation. | 📅 Planned |
+| **LLMs** | **RAG Chatbot** | LangChain, OpenAI/Llama | Chat with PDF/Docs using Vector DB (Chroma/Pinecone). | 📅 Planned |
+| **MLOps** | **Model Deployment** | Docker, Flask/FastAPI | Containerizing a model and exposing it as an API. | 📅 Planned |
+
+---
+    
+## ⚡ 4. Advanced: LLMs & MLOps
 *Future roadmap for Large Language Models and Production Engineering.*
 
 * **LLMs:** Transformers, Attention Mechanism, Fine-tuning, RAG.
@@ -69,3 +81,10 @@ This repository contains my implementations of algorithms from scratch, mathemat
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/ml-learning-journey.git](https://github.com/YOUR_USERNAME/ml-learning-journey.git)
+
+
+<div align="center">
+Created and maintained by Abhinav Kharde
+[]([https://www.linkedin.com/in/abhinavkharde])
+Open to contribute to Data Sciencce community.
+</div>
