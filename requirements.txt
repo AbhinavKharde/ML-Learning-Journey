@@ -1,0 +1,27 @@
+# --- Core Data Science & Math ---
+numpy           # Matrix math (Essential)
+pandas          # DataFrames and csv handling
+scipy           # Scientific computing (used by sklearn)
+
+# --- Visualization ---
+matplotlib      # Basic plotting
+seaborn         # Advanced statistical plots
+
+# --- Classical Machine Learning ---
+scikit-learn    # The main ML library (Regression, SVM, Trees, etc.)
+statsmodels     # Detailed statistical analysis (p-values, summaries)
+
+# --- Deep Learning (Planned) ---
+tensorflow      # For building Neural Networks
+torch           # PyTorch (Industry standard for Research/LLMs)
+torchvision     # Image datasets and transforms for PyTorch
+
+# --- LLMs & NLP (Future Roadmap) ---
+transformers    # Hugging Face models (BERT, GPT)
+langchain       # Framework for building LLM apps
+openai          # OpenAI API wrapper
+
+# --- Tools & Utilities ---
+jupyter         # The notebook interface
+notebook        # Jupyter notebook backend
+tqdm            # Progress bars (great for long training loops)

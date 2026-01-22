@@ -82,6 +82,9 @@ This repository contains my implementations of algorithms from scratch, mathemat
    ```bash
    git clone [https://github.com/AbhinavKharde/ML-Learning-Journey.git](https://github.com/AbhinavKharde/ML-Learning-Journey.git)
 
+2. **Install the requirements.txt file**
+   ```bash
+   pip install -r requirements.txt
 
 ## 📬 Connect & Author
 
