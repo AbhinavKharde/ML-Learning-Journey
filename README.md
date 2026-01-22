@@ -80,11 +80,23 @@ This repository contains my implementations of algorithms from scratch, mathemat
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/ml-learning-journey.git](https://github.com/YOUR_USERNAME/ml-learning-journey.git)
+   git clone [https://github.com/AbhinavKharde/ML-Learning-Journey.git](https://github.com/AbhinavKharde/ML-Learning-Journey.git)
 
+
+## 📬 Connect & Author
 
 <div align="center">
-Created and maintained by Abhinav Kharde
-[]([https://www.linkedin.com/in/abhinavkharde])
-Open to contribute to Data Sciencce community.
+
+<h3>Created and Maintained by Abhinav Kharde</h3>
+
+<a href="https://www.linkedin.com/in/abhinavkharde" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+</a>
+
+<a href="https://github.com/AbhinavKharde" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+</a>
+
+<p>Open to Machine Learning and Data Science opportunities.</p>
+
 </div>
