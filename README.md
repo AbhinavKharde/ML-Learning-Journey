@@ -31,9 +31,9 @@ This repository contains my implementations of algorithms from scratch, mathemat
 ### 🌳 Ensemble Methods
 | Algorithm | Notebook | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **Random Forests** | - | Bagging, Feature Importance | 🚧 In Progress |
-| **AdaBoost** | - | Weak Classifiers, Boosting | 📅 Planned |
-| **Gradient Boosting** | - | Residuals, GBM vs XGBoost | 📅 Planned |
+| **Random Forests** | Random Forest Algorithm.ipynb | Bagging, Feature Importance | ✅ Done |
+| **AdaBoost** | - | Weak Classifiers, Boosting | 🚧 In Progress |
+| **Gradient Boosting** | - | Residuals, GBM vs XGBoost | 🚧 In Progress |
 
 ### 🧩 Unsupervised Learning
 | Algorithm | Notebook | Key Concepts | Status |
