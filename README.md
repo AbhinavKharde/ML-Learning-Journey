@@ -32,13 +32,13 @@ This repository contains my implementations of algorithms from scratch, mathemat
 | Algorithm | Notebook | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
 | **Random Forests** | Random Forest Algorithm.ipynb | Bagging, Feature Importance | ✅ Done |
-| **AdaBoost** | - | Weak Classifiers, Boosting | ✅ Done |
-| **Gradient Boosting** | - | Residuals, GBM vs XGBoost | ✅ Done |
+| **AdaBoost** | Boosting Methods.ipynb | Weak Classifiers, Boosting | ✅ Done |
+| **Gradient Boosting** | Boosting Methods.ipynb | Residuals, GBM vs XGBoost | ✅ Done |
 
 ### 🧩 Unsupervised Learning
 | Algorithm | Notebook | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **K-Means Clustering** | - | Centroids, Elbow Method | ✅ Done |
+| **K-Means Clustering** | K Means Algorithm.ipynb | Centroids, Elbow Method | ✅ Done |
 | **Hierarchical Clustering** | - | Dendrograms, Agglomerative | 🚧 In Progress |
 | **DBSCAN** | - | Density-based, Outlier Detection | 📅 Planned |
 | **PCA** | - | Dimensionality Reduction, Eigenvectors | 📅 Planned |
