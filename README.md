@@ -39,8 +39,8 @@ This repository contains my implementations of algorithms from scratch, mathemat
 | Algorithm | Notebook | Key Concepts | Status |
 | :--- | :--- | :--- | :--- |
 | **K-Means Clustering** | K Means Algorithm.ipynb | Centroids, Elbow Method | ✅ Done |
-| **Hierarchical Clustering** | - | Dendrograms, Agglomerative | 🚧 In Progress |
-| **DBSCAN** | - | Density-based, Outlier Detection | 📅 Planned |
+| **Hierarchical Clustering** | Hierarchical Clustering.ipynb | Dendrograms, Agglomerative | ✅ Done  |
+| **DBSCAN** | - | Density-based, Outlier Detection | 🚧 In Progress |
 | **PCA** | - | Dimensionality Reduction, Eigenvectors | 📅 Planned |
 
 ---
