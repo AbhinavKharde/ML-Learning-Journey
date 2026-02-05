@@ -40,8 +40,8 @@ This repository contains my implementations of algorithms from scratch, mathemat
 | :--- | :--- | :--- | :--- |
 | **K-Means Clustering** | K Means Algorithm.ipynb | Centroids, Elbow Method | ✅ Done |
 | **Hierarchical Clustering** | Hierarchical Clustering.ipynb | Dendrograms, Agglomerative | ✅ Done  |
-| **DBSCAN** | - | Density-based, Outlier Detection | 🚧 In Progress |
-| **PCA** | - | Dimensionality Reduction, Eigenvectors | 📅 Planned |
+| **DBSCAN** | DBSCAN Algorithm.ipynb | Density-based, Outlier Detection | ✅ Done |
+| **PCA** | Principal Component Analysis.ipynb | Dimensionality Reduction, Eigenvectors | ✅ Done |
 
 ---
 
@@ -50,7 +50,7 @@ This repository contains my implementations of algorithms from scratch, mathemat
 
 | Topic | Notebook | Concepts | Status |
 | :--- | :--- | :--- | :--- |
-| **ANN Basics** | - | Perceptrons, Backpropagation, Activation Funcs | 📅 Planned |
+| **ANN Basics** | - | Perceptrons, Backpropagation, Activation Funcs | 🚧 In Progress |
 | **CNN (Vision)** | - | Convolutions, Pooling, ResNet/VGG | 📅 Planned |
 | **RNN / LSTM** | - | Sequence Data, Time Series | 📅 Planned |
 
